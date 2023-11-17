@@ -102,13 +102,7 @@
 
 [![Quotify](https://github-readme-quotify.vercel.app/api?mode=mixed&type=horizontal&theme=dracula)](https://github.com/aman-sheikh-git/github-readme-quotify)
 
-# 
-### <h3 align="left"> 📊 GitHub Stats:</h3>
 
-
-[//]: ![](https://github-readme-streak-stats.herokuapp.com/?user=aman-sheikh-git&theme=dark&hide_border=false)
-
-<br/>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aman-sheikh-git&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
