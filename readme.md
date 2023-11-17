@@ -103,9 +103,4 @@
 [![Quotify](https://github-readme-quotify.vercel.app/api?mode=mixed&type=horizontal&theme=dracula)](https://github.com/aman-sheikh-git/github-readme-quotify)
 
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aman-sheikh-git&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-<br>
-
 ![Profile views counter](https://komarev.com/ghpvc/?username=aman-sheikh-git&&style=flat-square)  
