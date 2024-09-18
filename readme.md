@@ -9,7 +9,7 @@
 <h3> I am a full-stack java developer who likes to convert caffeine into code, but I prefer tea, unlike the convention. </h3>
 
 <h2 align="left">☎️ Contact Me:</h2>
-<a href="https://www.facebook.com/aman00sheikh00fb" > <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> </a><a href="https://twitter.com/Aman_R_Sheikh" > <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a><a href="https://t.me/aman_sheikh_telegram" > <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> </a>
+<a href="https://twitter.com/Aman_R_Sheikh" > <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a><a href="https://t.me/aman_sheikh_telegram" > <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> </a>
 
 
 <h2 align="left">🛠 Languages and tools:</h2>
